@@ -61,3 +61,13 @@ Power BI Data Modeling & DAX
 Interactive Dashboard
    ↓
 Business Insights
+
+## Power BI Dashboard
+
+### Executive Overview
+
+![Executive Overview](presentation/Executive_Overview.png)
+
+### Customer & Purchase Behavior
+
+![Customer & Purchase Behavior](presentation/Customer_Purchase_Behavior.png)
