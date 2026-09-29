@@ -61,6 +61,7 @@ Power BI Data Modeling & DAX
 Interactive Dashboard
    ↓
 Business Insights
+```
 
 ## Power BI Dashboard
 
